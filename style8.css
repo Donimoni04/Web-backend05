@@ -109,7 +109,7 @@ form button:active{
 }
 .message{
     font-size: 21px;
-    color: green;
+    color: #9572D7;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -124,7 +124,7 @@ form button:active{
     color: red;
 }
 .message_info{
-    color: orange !important;
+    color: #9572D7 !important;
 }
 .pform{
     display: flex;
